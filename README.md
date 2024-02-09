@@ -72,7 +72,18 @@ The WOOT algorithm integrated into <span style="font-size: larger;">`coDpen`</sp
 Feel free to explore and experience the power of collaborative coding with <span style="font-size: larger;">`coDpen`</span>!
 
 
+## Load Balancer
 
+The Backend Load Balancer is a critical component of my project infrastructure, designed to efficiently distribute incoming requests across multiple servers. By intelligently routing traffic, it ensures optimal resource utilization and prevents any single server from becoming overwhelmed, thus enhancing the performance and reliability of my system.
+
+
+- **Dynamic Load Distribution:** The load balancer dynamically adjusts its routing decisions based on the current server loads, ensuring that each server receives an appropriate share of incoming requests.
+
+- **Real-time Monitoring:** Continuous monitoring of server health and performance metrics enables the load balancer to make informed decisions about request routing, improving overall system stability.
+
+- **Fault Tolerance:** In the event of server failures or maintenance, the load balancer automatically redirects traffic to healthy servers, minimizing downtime and maintaining uninterrupted service.
+
+- **Scalability:** My load balancer is designed to scale alongside my infrastructure, seamlessly handling increasing loads as my project grows.
 
 ## Project Structure
 
